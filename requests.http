@@ -1,0 +1,2 @@
+GET http://localhost:8080/chat?prompt=how%20are%20you
+
